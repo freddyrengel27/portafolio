@@ -2,7 +2,10 @@
   "name": "miportafolio",
   "private": true,
   "version": "0.0.0",
+  "homepage": "http://freddyrengel27.github.io/portafolio",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite --host 0.0.0.0",
     "build": "vite build",
     "preview": "vite preview"
