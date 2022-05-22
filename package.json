@@ -2,7 +2,7 @@
   "name": "miportafolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "http://freddyrengel27.github.io/portafolio",
+  "homepage": "https://freddyrengel27.github.io/portafolio",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
@@ -11,6 +11,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "gh-pages": "^4.0.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-icons": "^4.3.1"
