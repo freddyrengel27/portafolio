@@ -56,7 +56,7 @@ const Menu = (props) =>{
                 <div className="contacto__menuResponsive">
                     <a href="https://github.com/freddyrengel27" className="linkResposibe"><FaGithub /></a>
                     <a href="https://www.instagram.com/27freddyrengel/" className="linkResposibe"><SiInstagram /></a>
-                    <a href="https://www.linkedin.com/in/freddy-rengel-82941a238" className="linkResposibe"><FaLinkedinIn /></a>
+                    <a href="https://www.linkedin.com/in/freddy-rengel-dev" className="linkResposibe"><FaLinkedinIn /></a>
                 </div>
             </div>
 

@@ -15,7 +15,7 @@ const Footer = () =>{
             </div>
             <div className="footer__contacto">
                 <a href="https://github.com/freddyrengel27" className="fin__contacto"><FaGithub/></a>
-                <a href="https://www.linkedin.com/in/freddy-rengel-82941a238" className="fin__contacto"><FaLinkedinIn/></a>
+                <a href="https://www.linkedin.com/in/freddy-rengel-dev" className="fin__contacto"><FaLinkedinIn/></a>
                 <a href="https://www.instagram.com/27freddyrengel/" className="fin__contacto"><SiInstagram/></a>
             </div>
 

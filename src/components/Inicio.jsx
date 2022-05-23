@@ -18,7 +18,7 @@ const Inicio = (props) =>{
             <div className="contacto">
                 <a href="https://github.com/freddyrengel27" className="linkInicio"><FaGithub /></a>
                 <a href="https://www.instagram.com/27freddyrengel/" className="linkInicio"><SiInstagram /></a>
-                <a href="https://www.linkedin.com/in/freddy-rengel-82941a238" className="linkInicio"><FaLinkedinIn /></a>
+                <a href="https://www.linkedin.com/in/freddy-rengel-dev" className="linkInicio"><FaLinkedinIn /></a>
                 
             
             </div>
