@@ -2,7 +2,7 @@
   "name": "miportafolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://freddyrengel27.github.io/portafolio",
+  "homepage": "./",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
