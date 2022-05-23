@@ -16,7 +16,6 @@ function App() {
 
 
   const scrollMenu = (zona) =>{
-    console.log(zona)
     if(zona == "Inicio"){
       scroll({
         top: 0,
