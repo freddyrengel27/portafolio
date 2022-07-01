@@ -283,14 +283,17 @@ section{
 .contenedor__foto{
     width: 350px;
     height: 500px;
-    margin: auto 0;
+    margin: 55px 0;
     border-radius: 10px;
+    background: #fff;
+    display: flex;
 }
 
 .contenedor__foto img{
-    width: 100%;
-    height: 100%;
+    width: 99%;
+    height: 99%;
     border-radius: 10px;
+    margin: auto;
 }
 
 .conetenedor__info{

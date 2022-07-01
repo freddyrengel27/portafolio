@@ -4,7 +4,7 @@ import { useState } from "react";
 import {FaHtml5, FaCss3Alt, FaReact, FaVuejs, FaNodeJs} from "react-icons/Fa";
 import {SiExpress, SiJavascript} from "react-icons/Si"
 import {DiMysql} from "react-icons/Di";
-import mi from "../assests/img/mi.jpg"
+import mi from "../assests/img/mi.png";
 
 const SobreMi = () =>{
 
